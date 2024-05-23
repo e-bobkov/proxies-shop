@@ -61,15 +61,8 @@ This project is a Telegram bot shop for purchasing proxies using the @CryptoPay 
 
 Contributions are welcome! Please fork the repository and create a pull request to contribute.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Acknowledgements
 
 - [aiogram](https://github.com/aiogram/aiogram) for the Telegram bot framework
 - [@CryptoPay](https://pypi.org/project/crypto-pay-api-sdk/) for the payment system
 
-```
-
-Make sure to replace placeholders like `yourusername`, `your_telegram_bot_token`, and `your_cryptopay_api_key` with actual values relevant to your project. This README provides a comprehensive overview of your project, including features, installation instructions, usage, and contribution guidelines.
