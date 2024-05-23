@@ -19,7 +19,7 @@ This project is a Telegram bot shop for purchasing proxies using the @CryptoPay 
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/proxies-shop.git
+   git clone https://github.com/e-bobkov/proxies-shop.git
    cd proxies-shop
    ```
 
