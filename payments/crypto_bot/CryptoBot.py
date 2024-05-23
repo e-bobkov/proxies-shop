@@ -47,29 +47,3 @@ class CryptoBot:
 
     async def close(self):
         await self.crypto.close()
-
-# async def main():
-#     bot = CryptoBot(token='10844:AAk5GTYuggSw5H88Pf9zdbHO9TtJaxDAvpI')
-#
-#     # Создание инвойса
-#     # invoice_info = await bot.create_invoice(amount=1, description='Test Invoice')
-#     # invoice_id, invoice_url = invoice_info
-#
-#     # print(f"Инвойс создан : {invoice_url}")
-#     # print(f"Инвойс создан с ID: {invoice_id}")
-#
-#     # Проверка статуса инвойса
-#     await bot.check_invoice_status('152528')
-#
-#     # Удаление инвойса
-#     # await bot.delete_invoice(invoice_id)
-#
-#     # Закрытие объекта AioCryptoPay
-#     await bot.close()
-#
-#
-#
-# if __name__ == '__main__':
-#     import asyncio
-#
-#     asyncio.run(main())
