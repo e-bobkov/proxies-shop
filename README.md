@@ -1,6 +1,3 @@
-Sure, here is a README for your project in English:
-
-```markdown
 # Proxies Shop Telegram Bot
 
 This project is a Telegram bot shop for purchasing proxies using the @CryptoPay payment system from @CryptoBot. The bot is written in Python 3.10 and utilizes the aiogram 3.x library.
