@@ -68,7 +68,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Acknowledgements
 
 - [aiogram](https://github.com/aiogram/aiogram) for the Telegram bot framework
-- [@CryptoPay](https://github.com/CryptoBot) for the payment system
+- [@CryptoPay](https://pypi.org/project/crypto-pay-api-sdk/) for the payment system
 
 ```
 
