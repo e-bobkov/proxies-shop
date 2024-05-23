@@ -56,21 +56,6 @@ def create_categories(db_name='database/shop.db'):
     connection.close()
 
 
-# def create_table_referrals(db_name='database/shop.db'):
-#     connection = sqlite3.connect(db_name)
-#     cursor = connection.cursor()
-#
-#     cursor.execute('''
-#         CREATE TABLE IF NOT EXISTS referrals (
-#             id INTEGER PRIMARY KEY AUTOINCREMENT,
-#             chat_id INTEGER,
-#             referral_id TEXT
-#         )
-#     ''')
-#
-#     connection.commit()
-#     connection.close()
-
 
 if __name__ == "__main__":
     create_table_users()
